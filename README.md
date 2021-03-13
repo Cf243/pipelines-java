@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/carlottafriedmanntest/How%20to%20build%20a%20pipeline/_apis/build/status/Cf243.pipelines-java?branchName=master)](https://dev.azure.com/carlottafriedmanntest/How%20to%20build%20a%20pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
